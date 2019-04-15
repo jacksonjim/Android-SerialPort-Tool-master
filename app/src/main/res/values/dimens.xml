@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_height">@dimen/normal_48dp</dimen>
+
+    <dimen name="default_button_height">@dimen/normal_120dp</dimen>
+    <dimen name="horizontal_margin">@dimen/normal_16dp</dimen>
+    <dimen name="small_button_height">@dimen/normal_48dp</dimen>
+    <dimen name="default_text_size">@dimen/default_size</dimen>
+    <dimen name="small_text_size">@dimen/normal_30dp</dimen>
+    <dimen name="edit_text_size">@dimen/normal_40dp</dimen>
+    <dimen name="normal_16dp">48dp</dimen>
+    <dimen name="normal_120dp">120dp</dimen>
+    <dimen name="normal_48dp">48dp</dimen>
+    <dimen name="normal_36dp">36dp</dimen>
+    <dimen name="text_normal_36sp">36sp</dimen>
+    <dimen name="normal_30dp">30dp</dimen>
+    <dimen name="normal_40dp">40dp</dimen>
+    <dimen name="normal_200dp">200dp</dimen>
+    <dimen name="normal_240dp">240dp</dimen>
+    <dimen name="normal_8dp">8dp</dimen>
+
+    <dimen name="default_size">16sp</dimen>
+</resources>
